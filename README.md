@@ -16,13 +16,13 @@ A common problem faced when collecting data corresponding to hospitals and patie
 
 **Goals**
 1. Find quality data sets
-  a. Patient data (not population data) with multiple biometric measurements
+* Patient data (not population data) with multiple biometric measurements
 
 2. Create synthetic data
-  a. Apply multiple ML techniques for data 
+* Apply multiple ML techniques for data 
 
 3. Validate data
-  a. Confirm characteristics of parent data, compare ML techniques used
+* Confirm characteristics of parent data, compare ML techniques used
 
 4. Evaluate Data
-  a. Actually use data for tasks such as classification and observe performance
+* Actually use data for tasks such as classification and observe performance
